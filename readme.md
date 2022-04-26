@@ -1,4 +1,4 @@
-# AWS Serverless Application using API Gatway, Lambda functions and S3
+# GroupImages API
 
 
 ## Configure project with AWS Credentials
